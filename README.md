@@ -33,7 +33,7 @@ print("Square root of the number:",root)
 ```
 
 ## Output:
-![Screenshot 2024-04-05 114046](https://github.com/KrishnaPrasad148/Square-root-of-a-number/assets/147332763/06f6693e-4f16-4a10-8255-d935b1f98cf8)
+![image](https://github.com/KrishnaPrasad148/Square-root-of-a-number/assets/147332763/9abf2dc5-1596-4688-8d72-f11409d00c49)
 
 
 
